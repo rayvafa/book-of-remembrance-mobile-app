@@ -1,0 +1,19 @@
+{
+  "name": "book-of-remembrance-mobile-app",
+  "version": "0.0.0",
+  "description": "Book of Remembrance mobile app ======= Book of remembrance mobile app is a searchable database of biographies and archival information of members of the University of Sydney community involved in the First World War.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayvafa/book-of-remembrance-mobile-app.git"
+  },
+  "author": "Ray Vafa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayvafa/book-of-remembrance-mobile-app/issues"
+  },
+  "homepage": "https://github.com/rayvafa/book-of-remembrance-mobile-app",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}

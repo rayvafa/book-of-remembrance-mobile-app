@@ -1,0 +1,17 @@
+{
+  "name": "book-of-remembrance-mobile-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rayvafa/book-of-remembrance-mobile-app",
+  "authors": [
+    "Ray Vafa <ray.vafatabar@sydney.edu.au>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
