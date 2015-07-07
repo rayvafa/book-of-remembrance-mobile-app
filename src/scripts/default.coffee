@@ -31,4 +31,5 @@ class App
 
 		console.log('Received Event: ' + id);
 
-App.initialize();
+app = new App()
+app.initialize()
